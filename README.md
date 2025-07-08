@@ -27,6 +27,9 @@ This React application implements a dashboard with comments management and user 
 - Responsive design
 - Cross-browser compatible (Chrome, Firefox, Edge)
 
+  ![image](https://github.com/user-attachments/assets/8d8d96da-15ed-4ddc-a518-48f341d76c0d)
+
+
 ## Installation
 
 1. Clone the repository:
