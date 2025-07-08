@@ -157,20 +157,15 @@ const Dashboard = () => {
       </nav>
 
       <div className="dashboard-content">
-        <div className="search-section">
-          <SearchBar 
-            onSearch={handleSearch} 
-            searchTerm={searchTerm} 
-            placeholder="Search name, email, comment" 
-          />
-        </div>
+    
 
         <CommentTable 
-          comments={paginatedData} 
-          sortConfig={sortConfig}
-          requestSort={requestSort}
-        />
-
+  comments={paginatedData} 
+  sortConfig={sortConfig}
+  requestSort={requestSort}
+  onSearch={handleSearch}
+  searchTerm={searchTerm}
+/>
         <div className="pagination-controls">
           <div className="page-size-selector">
             <span>Items per page:</span>
