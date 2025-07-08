@@ -3,7 +3,7 @@
 ## Overview
 This React application implements a dashboard with comments management and user profile features as per the internship assignment requirements. The app fetches data from JSONPlaceholder APIs and provides pagination, sorting, searching, and data persistence functionalities.
 
-Live URL:
+Live URL:https://swift-nu-black.vercel.app/
 ![image](https://github.com/user-attachments/assets/8d8d96da-15ed-4ddc-a518-48f341d76c0d)
 ![image](https://github.com/user-attachments/assets/f623e4a5-8b87-4a83-8bcc-5161c1976241)
 
