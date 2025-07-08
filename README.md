@@ -31,5 +31,4 @@ This React application implements a dashboard with comments management and user 
 
 1. Clone the repository:
    ```bash
-   git clone [[repository-url](https://github.com/shivakumargattu/SWIFT)]
-   
+   git clone url https://github.com/shivakumargattu/SWIFT   
