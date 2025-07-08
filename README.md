@@ -4,10 +4,10 @@
 This React application implements a dashboard with comments management and user profile features as per the internship assignment requirements. The app fetches data from JSONPlaceholder APIs and provides pagination, sorting, searching, and data persistence functionalities.
 
 Live URL:
-  ![image](https://github.com/user-attachments/assets/8d8d96da-15ed-4ddc-a518-48f341d76c0d)
+![image](https://github.com/user-attachments/assets/8d8d96da-15ed-4ddc-a518-48f341d76c0d)
+![image](https://github.com/user-attachments/assets/f623e4a5-8b87-4a83-8bcc-5161c1976241)
 
- ![image](https://github.com/user-attachments/assets/f623e4a5-8b87-4a83-8bcc-5161c1976241)
-
+![image](https://github.com/user-attachments/assets/e2b8c544-52f8-46a1-819d-24c0656d60fe)
 
 
 ## Features Implemented
